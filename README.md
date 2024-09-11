@@ -2,9 +2,6 @@
 
 ## A Data Analysis Project
 
-## About The Project
-
-### Project Structure
 The project uses the CRISP-DM Framework. 
 first part covers the Business Understanding and external research to provide a base for the work and then heading on to the second part where looking at the Datasets, I have analysed the ecosystem fully to generate insights.
 
